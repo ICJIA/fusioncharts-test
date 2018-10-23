@@ -1,0 +1,23 @@
+{
+  "name": "fusioncharts-test",
+  "version": "1.0.0",
+  "description": "My sweet Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "fusioncharts": "^3.13.2",
+    "fusionmaps": "^3.13.1-sr.1",
+    "nuxt": "^2.0.0",
+    "vue-fusioncharts": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
